@@ -23,7 +23,7 @@
     "ffmpeg-static": "^4.4.0",
     "iso-639-1": "^2.1.9",
     "libsodium-wrappers": "^0.7.9",
-    "mongoose": "^5.13.5",
+    "mongoose": "^5.13.15",
     "simple-youtube-api": "^5.2.1",
     "spotify-url-info": "^2.2.3",
     "youtube-dl-exec": "^1.2.4",
